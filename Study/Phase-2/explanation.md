@@ -403,7 +403,7 @@ function getUser(id: string): string {  // ✅ Now TypeScript can verify it's us
 
 Strict mode forces you to be explicit about types, preventing runtime bugs.
 
-#### **💡 Beginner Tips:**
+#### **💡 Beginner Tips!!:**
 
 1. **Compile your code**: Run `tsc` (or `npm run build`) - it reads tsconfig.json automatically
 2. **Watch mode**: Run `tsc -w` to auto-recompile whenever you save a .ts file
